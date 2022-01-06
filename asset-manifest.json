@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eyepax_assigment_tharindu/static/css/main.0c0a5625.css",
+    "main.js": "/eyepax_assigment_tharindu/static/js/main.9b90b650.js",
+    "static/js/787.b93ab111.chunk.js": "/eyepax_assigment_tharindu/static/js/787.b93ab111.chunk.js",
+    "static/media/back.png": "/eyepax_assigment_tharindu/static/media/back.94cb3f8e260a2d3c172e.png",
+    "index.html": "/eyepax_assigment_tharindu/index.html",
+    "main.0c0a5625.css.map": "/eyepax_assigment_tharindu/static/css/main.0c0a5625.css.map",
+    "main.9b90b650.js.map": "/eyepax_assigment_tharindu/static/js/main.9b90b650.js.map",
+    "787.b93ab111.chunk.js.map": "/eyepax_assigment_tharindu/static/js/787.b93ab111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c0a5625.css",
+    "static/js/main.9b90b650.js"
+  ]
+}
